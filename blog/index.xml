@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>¿Qué es el Ray-Tracing?</title>
-      <link>https://radiezca.github.io/blog/que-es-el-ray-tracing/</link>
+      <title>Renderizado-Voxels</title>
+      <link>https://radiezca.github.io/blog/Renderizado-Voxels/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://radiezca.github.io/blog/que-es-el-ray-tracing/</guid>
+      <guid>https://radiezca.github.io/blog/Renderizado-Voxels/</guid>
       <description>Introducción En la computación gráfica actual, las escenas en tres dimensiones son algo común, y esto es necesario debido a que nosotros observamos nuestro universo en tres dimensiones, por lo que obligatorio que debamos ser capaces de representar estas escenas para que se asemejen a como visualmente percibimos lo que nos rodea.
 
 Los gráficos en tres dimensiones ( gráficos 3D ) se originan por medio de grandes cálculos matemáticos sobre entidades geométricas tridimensionales producidas en computador, y su propósito es conseguir una proyección visual de la escena en 3D sobre un plano 2D como las pantallas de computador o en una impresión en papel, por lo que estos gráficos en 3D son similares a la fotografía, se plasma una escena tridimensional, en este caso, el contenido de la fotografía, sobre un plano bidimensional o la impresión de la fotografía sobre papel fotográfico.</description>
